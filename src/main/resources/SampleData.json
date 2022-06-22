@@ -1,0 +1,41 @@
+[
+  {
+    "name": "PotatoChicken",
+    "isVeg": false,
+    "sufficientFor": 3,
+    "servingCount": 1,
+    "ingredientDtos": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "potato"
+      }
+    ]
+  },
+  {
+    "name": "PotatoFry",
+    "isVeg": true,
+    "sufficientFor": 3,
+    "servingCount": 1,
+    "ingredientDtos": [
+      {
+        "name": "potato"
+      }
+    ]
+  },
+  {
+    "name": "PotatoCurry",
+    "isVeg": true,
+    "sufficientFor": 4,
+    "servingCount": 1,
+    "ingredientDtos": [
+      {
+        "name": "potato"
+      },
+      {
+        "name": "tomoto"
+      }
+    ]
+  }
+]

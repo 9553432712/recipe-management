@@ -1,0 +1,14 @@
+{
+  "name": "PotatoChicken",
+  "isVeg": false,
+  "sufficientFor": 3,
+  "servingCount": 1,
+  "ingredientDtos": [
+    {
+      "name": "chicken"
+    },
+    {
+      "name": "potato"
+    }
+  ]
+}
